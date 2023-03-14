@@ -1,4 +1,4 @@
-# Cloning Of Kissflow.com
+# Cloning Of 1mg.com
 
 TATA 1mg is a Digital Pharmaceutical Marketplace.
 
