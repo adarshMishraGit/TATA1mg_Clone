@@ -3,7 +3,7 @@
 Tata 1mg, previously 1mg, is a healthcare platform based in Gurugram, India. It provides services, including e-pharmacy, diagnostics, e-consultation and health content.
 
 
-Pages : Login | Sign Up | Home Page | USer Profile | Products | Cart | Shipment | Payment.
+Pages : Login | Sign Up | Home Page | User Profile | Products | Cart | Shipment | Payment.
 
 
 ## Tech Stack
