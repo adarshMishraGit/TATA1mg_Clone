@@ -1,4 +1,4 @@
-# Cloning Of 1mg.com
+# Website Cloning Project of 1mg.com
 
 Tata 1mg, previously 1mg, is a healthcare platform based in Gurugram, India. It provides services, including e-pharmacy, diagnostics, e-consultation and health content.
 
